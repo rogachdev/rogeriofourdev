@@ -1,15 +1,19 @@
-# Olá eu sou o Rogério Assunção
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rogério Assunção</h1>
+
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia.
 
-<div style="display: inline_block" alin>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Rogério Assunção GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriofourdev&show_icons=true&theme=dark&count_private=true)
+## ⚙️ &nbsp;GitHub Analytics
+
+![Rogério Assunção GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriofourdev&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
