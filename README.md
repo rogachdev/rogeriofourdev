@@ -9,7 +9,7 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![Rogério Assunção GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriofourdev&show_icons=true&theme=highcontrast&count_private=true)
+![Rogério Assunção GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriofourdev&show_icons=true&theme=dark&count_private=true)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
