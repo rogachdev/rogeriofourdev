@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rogério Assunção</h1>
+<h1 align="left">Olá, eu sou o Rogério Assunção</h1>
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
